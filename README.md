@@ -57,7 +57,7 @@ Clone this repository:
 
 Bash
 
-git clone https://github.com/[Your-Username]/FUTURE_DS_01.git
+git clone https://github.com/Krayolin15/FUTURE_DS_01
 Place the Superstore.csv in the same directory as the script.
 
 Run the script:
